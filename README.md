@@ -1,5 +1,5 @@
 
-# Pocket Money Tracker App
+# Track Wallet App
 
 The Pocket Money Tracker App is a web application designed to help you manage and track your financial transactions easily. You can add new transactions, view your transaction history, and keep track of your balance.
 
